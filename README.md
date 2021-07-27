@@ -22,4 +22,4 @@ $$
 <img src="https://github.com/diobrando-jojo/Self-organizing-map-SOM-/blob/main/som_pic/BMU.png" width="60%" height="60%" />
 <img src="https://github.com/diobrando-jojo/Self-organizing-map-SOM-/blob/main/som_pic/diedai.PNG" width="60%" height="60%" />
 
-
+* step6：直到完成设定的全部迭代次数，根据样本到数据节点的距离进行分类。
