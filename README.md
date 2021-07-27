@@ -17,7 +17,7 @@ SOM是一种**无监督的**的机器学习方法，同时结合了神经网络�
     * $$
 W_{t+1} = W_{t} + \alpha*\theta*(D_{t} - W_{t})
 $$
-<!--     * W为节点权重，t为迭代次数，\alpha是t次迭代的学习率，\theta为拓扑空间中的距离权重，D是神经元权重离样本xi距离。 -->
+    * W为节点权重，t为迭代次数，\alpha是t次迭代的学习率，\theta为拓扑空间中的距离权重，D是神经元权重离样本xi距离。
 
 <img src="https://github.com/diobrando-jojo/Self-organizing-map-SOM-/blob/main/som_pic/BMU.png" width="60%" height="60%" />
 <img src="https://github.com/diobrando-jojo/Self-organizing-map-SOM-/blob/main/som_pic/diedai.PNG" width="60%" height="60%" />
