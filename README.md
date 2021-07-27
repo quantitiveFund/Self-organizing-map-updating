@@ -13,6 +13,6 @@ SOM是一种**无监督的**的机器学习方法，同时结合了神经网络�
 * step4: 在拓扑空间上根据优胜节点选择优胜领域，更新优胜邻域神经元的权重。       
     * 更新权重的主要思路为：优胜节点更新的速度最快，在**拓扑空间中**离优胜节点越近的节点更新越大，越远更新越小。
     * 一般可以采用高斯分布，作为节点距离优胜节点的距离权重。
-![image](https://user-images.githubusercontent.com/73262817/127092968-783d4687-638c-4ef5-af89-28cd3bcdb1b2.png)
-![image](https://user-images.githubusercontent.com/73262817/127093899-8b5fa0a3-2da6-42f4-a4f9-9212afd9012b.png)
+<img src="https://github.com/diobrando-jojo/Self-organizing-map-SOM-/blob/main/som_pic/BMU.png" width="60%" height="60%" />
+<img src="https://github.com/diobrando-jojo/Self-organizing-map-SOM-/blob/main/som_pic/diedai.PNG" width="60%" height="60%" />
 
